@@ -1,0 +1,7 @@
+Hi this is second file
+
+this is the chnages
+
+this is the third line for second file
+
+wrong line
