@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hi mearging this
 =======
 hi
@@ -8,4 +8,4 @@ this is second line
 this is third line
 
 mearging the branch
->>>>>>> test
+
